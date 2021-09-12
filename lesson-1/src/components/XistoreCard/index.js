@@ -1,0 +1,1 @@
+export { XistoreCard } from './XistoreCard';
